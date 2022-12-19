@@ -1,0 +1,9 @@
+D:\Codes\daaamn\daaamn\obj\Debug\daaamn.csproj.AssemblyReference.cache
+D:\Codes\daaamn\daaamn\obj\Debug\daaamn.csproj.SuggestedBindingRedirects.cache
+D:\Codes\daaamn\daaamn\obj\Debug\MainWindow.g.cs
+D:\Codes\daaamn\daaamn\obj\Debug\App.g.cs
+D:\Codes\daaamn\daaamn\obj\Debug\daaamn_Content.g.cs
+D:\Codes\daaamn\daaamn\obj\Debug\daaamn_MarkupCompile.cache
+D:\Codes\daaamn\daaamn\obj\Debug\daaamn_MarkupCompile.lref
+D:\Codes\daaamn\daaamn\obj\Debug\Window1.g.cs
+D:\Codes\daaamn\daaamn\obj\Debug\Zakaz.g.cs
